@@ -41,7 +41,7 @@ python main.py
 ## 📂 File Structure
 
 expense_tracker_dark/
-├── expense_tracker.py # Main script
+├── main.py # Main script
 ├── expenses.pkl # Auto-created to store your data
 └── README.md # Project info
 
