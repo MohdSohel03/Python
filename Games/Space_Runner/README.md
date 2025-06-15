@@ -32,11 +32,12 @@ collect.wav → Played on collectible pickup
 hit.wav → Played on collision
 powerup.wav → Played on power-up collection
 
-## ▶️ Running the Game
+## ▶️ How to Run
 
-Make sure Python and Pygame are installed:
-```bash
-pip install pygame
+1. Clone or Download the project
+gitclone https://github.com/MohdSohel03/Python/tree/7ce9d13906249131af8bb1cc0b7786e646615743/Games/Space_Runner
+cd Space_Runner
+2. Run the Game
 python main.py
 
 ## 🙋‍♂️ Contact

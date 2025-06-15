@@ -28,10 +28,10 @@ pip install pygame
 
 ▶️ How to Play
 1. Download or Clone the Repository:
-git clone https://github.com/your-username/space-runner.git
-cd space-runner
+git clone https://github.com/MohdSohel03/Python/tree/7ce9d13906249131af8bb1cc0b7786e646615743/Games/Endless%20Runner%20Game
+cd Endless Runner Game
 2. Run the Game:
-python space_runner.py
+python main.py
 
 🎮 Controls
 

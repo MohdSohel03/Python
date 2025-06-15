@@ -46,10 +46,10 @@ Install with pip:
 
 ▶️ How to Run
 1. Clone or Download the project
-gitclone https://github.com/your-username/enhanced-snake.git
-cd enhanced-snake
+gitclone https://github.com/MohdSohel03/Python/tree/7ce9d13906249131af8bb1cc0b7786e646615743/Games/Snake_Game
+cd Snake_Game
 2. Run the Game
-python snake_game.py
+python main.py
 
 💡 How It Works
 
