@@ -25,7 +25,6 @@ A sleek, dark-themed desktop Expense Tracker built using **Python**, **Tkinter**
 
 1. Clone the repository:
 git clone https://github.com/MohdSohel03/Python/tree/cebd047a2964bb814bc271f1609f399daa92f4be/Expense%20Tracker%20deskapp
-cd expense-tracker-dark
 2. Install required dependencies:
 pip install tkcalendar matplotlib
 3. Run the app:
