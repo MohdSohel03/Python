@@ -8,7 +8,7 @@ pygame.init()
 # Window setup
 WIDTH, HEIGHT = 800, 400
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🚀 Space Runner")
+pygame.display.set_caption("Endless Runner Game")
 
 clock = pygame.time.Clock()
 FPS = 60

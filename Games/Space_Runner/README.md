@@ -39,3 +39,8 @@ Make sure Python and Pygame are installed:
 pip install pygame
 python main.py
 
+## 🙋‍♂️ Contact
+
+**Developer**: Mohd Sohel Ansari  
+**Email**: Getting Soon  
+**GitHub**: https://github.com/MohdSohel03
