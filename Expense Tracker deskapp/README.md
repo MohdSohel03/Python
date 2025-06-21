@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 
 **Developer**: Mohd Sohel Ansari  
-**Email**: Getting soon 
+**Email**: Uplaoding Soon  
 **GitHub**: https://github.com/MohdSohel03

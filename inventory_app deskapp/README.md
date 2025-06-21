@@ -85,6 +85,6 @@ This project is open-source and available under the MIT License.
 ## 🙋‍♂️ Contact
 
 **Developer**: Mohd Sohel Ansari  
-**Email**: Getting Soon  
+**Email**: Uplaoding Soon 
 **GitHub**: https://github.com/MohdSohel03
 

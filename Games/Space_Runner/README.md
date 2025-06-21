@@ -43,5 +43,5 @@ python main.py
 ## 🙋‍♂️ Contact
 
 **Developer**: Mohd Sohel Ansari  
-**Email**: Getting Soon  
+**Email**: Uplaoding Soon   
 **GitHub**: https://github.com/MohdSohel03
